@@ -26,4 +26,5 @@ This task has been undertaken so as to:
 - Demographic info about customers – gender, age range, and if they have partners and dependents
   
 <h1> DATA SOURCE </h1>
-Here is a link to the dataset for this task:
+Here is a link to the dataset for this task: [02 Churn-Dataset (2).xlsx](https://github.com/Fey-Lajide/PWC-Virtual-Job-Internship/files/12803379/02.Churn-Dataset.2.xlsx)
+
