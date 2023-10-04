@@ -125,5 +125,3 @@ As shown the data Visualization, It can be deduced that:
 - CCMost of the churned customers did not sign up for Online Security and tech support and also did not sign up for Phone Services.
   
 - It a lot of customers had an issue with Fiber Optic . Up to 42% of the customers churned were using Fiber Optic as their Internet Services.
-
-
