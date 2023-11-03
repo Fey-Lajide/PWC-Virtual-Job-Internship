@@ -34,6 +34,7 @@ This task has been undertaken so as to:
 Here is a link to the dataset for this task: [02 Churn-Dataset (2).xlsx](https://github.com/Fey-Lajide/PWC-Virtual-Job-Internship/files/12803379/02.Churn-Dataset.2.xlsx)
 
 <h1> DATA PREPARATION </h1>
+<br/><br/>
 - Completed the Data transformation in Power Query and the dataset loaded into Microsoft Power BI Desktop for modeling.
 
 - Customer Churn dataset is give table named:
@@ -56,11 +57,13 @@ Here is a link to the dataset for this task: [02 Churn-Dataset (2).xlsx](https:/
 - Each of the columns in the table were validated to have the correct data type
 
 <H1>DATA MODELLING</H1>
+<br/><br/>
 After the preliminary stages of Data Cleaning and Data Transformation, the Data was then modelled. The image below gives more insigts into this.
-![dax](https://github.com/Fey-Lajide/PWC-Virtual-Job-Internship/assets/124121752/694bca4b-2b16-44ee-96a3-739900a7746f)
+<img src = "https://github.com/Fey-Lajide/PWC-Virtual-Job-Internship/assets/124121752/694bca4b-2b16-44ee-96a3-739900a7746f.png">
+<br/>
 <h1>DATA ANALYSIS</h1>
-The modelled data was then analyzed utilizing certain DAX functions and measures. 
-Measures used in all visualization are:
+<br/><br/>
+The modeled data was then analyzed using certain DAX functions and measures. 
 
 - Average MonthlyCharges = AVERAGE('01 Churn-Dataset'[MonthlyCharges])
 
@@ -102,10 +105,7 @@ Measures used in all visualization are:
 
 <h1> DATA VISUALIZATION </h1>
 Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop:
-
-Shows visualizations from Customer Retention analysis:
-
-
+<br/>
 CUSTOMER CHURN 
 <br/><br/>
 ![Customer Churn 2](https://github.com/Fey-Lajide/PWC-Virtual-Job-Internship/assets/124121752/8594cb92-381b-4860-bb96-e5a75029dc73)
