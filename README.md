@@ -56,7 +56,7 @@ Here is a link to the dataset for this task: [02 Churn-Dataset (2).xlsx](https:/
 
 <H1>DATA MODELLING</H1>
 After the preliminary stages of Data Cleaning and Data Transformation, the Data was then modelled. The image below gives more insigts into this.
-<br/>
+<br/><br/>
 <img src = "https://github.com/Fey-Lajide/PWC-Virtual-Job-Internship/assets/124121752/694bca4b-2b16-44ee-96a3-739900a7746f.png">
 <br/>
 <h1>DATA ANALYSIS</h1>
