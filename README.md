@@ -105,10 +105,12 @@ Shows visualizations from Customer Retention analysis:
 
 
 CUSTOMER CHURN 
+<br/><br/>
 ![Customer Churn 2](https://github.com/Fey-Lajide/PWC-Virtual-Job-Internship/assets/124121752/8594cb92-381b-4860-bb96-e5a75029dc73)
 
 
 CUSTOMER RISK 
+<br/><br/>
 ![Customer Churn 3](https://github.com/Fey-Lajide/PWC-Virtual-Job-Internship/assets/124121752/6017313a-f28d-4713-bab6-ac42c61d23b1)
 
 <H1> INSIGHTS </H1>
