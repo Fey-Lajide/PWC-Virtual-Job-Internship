@@ -2,8 +2,8 @@
 ![cutomer churn](https://github.com/Fey-Lajide/PWC-Virtual-Job-Internship/assets/124121752/3b7f8d18-815d-468d-9a94-9f4f2302d1ab)
 ![Customer Churn 1](https://github.com/Fey-Lajide/PWC-Virtual-Job-Internship/assets/124121752/db6651b9-ea2b-4f53-b66e-8e6643a808c9)
 
-This repository contains details of my project for Pwc. It includes the steps taken, the slides, and the result of the analysis. 
-<br>
+This repository contains details of my project for Pwc. It includes the steps taken, the slides, and insights.
+<br/><br?>
 <hr1> TABLE OF CONTENTS </hr1>
 1. Problem Statement 
 2. Data Source 
