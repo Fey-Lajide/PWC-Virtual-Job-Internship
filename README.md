@@ -6,13 +6,13 @@ This repository contains details of my project for Pwc. It includes the steps ta
 <br/><br/>
 <h1> TABLE OF CONTENTS </h1>
 <br/>
-1. Problem Statement 
-2. Data Source 
-3. Data Preparation
-4. Data Modeling
-5. Data Analysis 
-6. Data Visualization
-7. Insights 
+1. Problem Statement <br/>
+2. Data Source <br/>
+3. Data Preparation <br/>
+4. Data Modeling <br/>
+5. Data Analysis <br/>
+6. Data Visualization <br/>
+7. Insights <br/>
 <h1> PROBLEM STATEMENT </h1>
 This task has been undertaken so as to: 
 
@@ -33,7 +33,8 @@ This task has been undertaken so as to:
 <h1> DATA SOURCE </h1>
 Here is a link to the dataset for this task: [02 Churn-Dataset (2).xlsx](https://github.com/Fey-Lajide/PWC-Virtual-Job-Internship/files/12803379/02.Churn-Dataset.2.xlsx)
 
-<h1> DATA PREPARATION </h1><br/>
+<h1> DATA PREPARATION </h1>
+<br/>
 - Completed the Data transformation in Power Query and the dataset loaded into Microsoft Power BI Desktop for modeling.
 
 - Customer Churn dataset is give table named:
@@ -55,13 +56,14 @@ Here is a link to the dataset for this task: [02 Churn-Dataset (2).xlsx](https:/
 
 - Each of the columns in the table were validated to have the correct data type
 
-<H1>DATA MODELLING</H1><br/>
+<H1>DATA MODELLING</H1>
+<br/>
 After the preliminary stages of Data Cleaning and Data Transformation, the Data was then modelled. The image below gives more insigts into this.
 <br/>
 <img src = "https://github.com/Fey-Lajide/PWC-Virtual-Job-Internship/assets/124121752/694bca4b-2b16-44ee-96a3-739900a7746f.png">
 <br/>
 <h1>DATA ANALYSIS</h1>
-<br/><br/>
+<br/>
 The modeled data was then analyzed using certain DAX functions and measures. 
 
 - Average MonthlyCharges = AVERAGE('01 Churn-Dataset'[MonthlyCharges])
