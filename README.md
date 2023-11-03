@@ -105,7 +105,7 @@ Data visualization for the data analysis (DAX) was done in Microsoft Power BI De
 <br/>
 CUSTOMER CHURN 
 <br/><br/>
-![Customer Churn 2](https://github.com/Fey-Lajide/PWC-Virtual-Job-Internship/assets/124121752/8594cb92-381b-4860-bb96-e5a75029dc73.PNG"
+<IMG SRC = "https://github.com/Fey-Lajide/PWC-Virtual-Job-Internship/assets/124121752/8594cb92-381b-4860-bb96-e5a75029dc73.PNG">
 
 
 CUSTOMER RISK 
