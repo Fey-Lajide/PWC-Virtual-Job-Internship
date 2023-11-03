@@ -60,7 +60,6 @@ After the preliminary stages of Data Cleaning and Data Transformation, the Data 
 <img src = "https://github.com/Fey-Lajide/PWC-Virtual-Job-Internship/assets/124121752/694bca4b-2b16-44ee-96a3-739900a7746f.png">
 <br/>
 <h1>DATA ANALYSIS</h1>
-<br/>
 The modeled data was then analyzed using certain DAX functions and measures. 
 
 - Average MonthlyCharges = AVERAGE('01 Churn-Dataset'[MonthlyCharges])
