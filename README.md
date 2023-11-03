@@ -15,8 +15,8 @@ This repository contains details of my project for Pwc. It includes the steps ta
 7. Insights 
 <h1> PROBLEM STATEMENT </h1>
 This task has been undertaken so as to: 
-<br/>
-- Define proper KPI's
+
+- Define proper KPIs
 
 - Create a dashboard for the retention manager reflecting the KPI's
   
