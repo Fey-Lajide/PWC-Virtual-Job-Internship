@@ -5,7 +5,6 @@
 This repository contains details of my project for Pwc. It includes the steps taken, the slides, and insights.
 <br/><br/>
 <h1> TABLE OF CONTENTS </h1>
-<br/>
 1. Problem Statement <br/>
 2. Data Source <br/>
 3. Data Preparation <br/>
